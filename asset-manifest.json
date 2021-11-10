@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/whatsapp/static/css/main.7ecfaeb0.chunk.css",
+    "main.js": "/whatsapp/static/js/main.8a4be935.chunk.js",
+    "main.js.map": "/whatsapp/static/js/main.8a4be935.chunk.js.map",
+    "runtime-main.js": "/whatsapp/static/js/runtime-main.8bffa0d1.js",
+    "runtime-main.js.map": "/whatsapp/static/js/runtime-main.8bffa0d1.js.map",
+    "static/js/2.b505c3a2.chunk.js": "/whatsapp/static/js/2.b505c3a2.chunk.js",
+    "static/js/2.b505c3a2.chunk.js.map": "/whatsapp/static/js/2.b505c3a2.chunk.js.map",
+    "static/js/3.0058e997.chunk.js": "/whatsapp/static/js/3.0058e997.chunk.js",
+    "static/js/3.0058e997.chunk.js.map": "/whatsapp/static/js/3.0058e997.chunk.js.map",
+    "index.html": "/whatsapp/index.html",
+    "static/css/main.7ecfaeb0.chunk.css.map": "/whatsapp/static/css/main.7ecfaeb0.chunk.css.map",
+    "static/js/2.b505c3a2.chunk.js.LICENSE.txt": "/whatsapp/static/js/2.b505c3a2.chunk.js.LICENSE.txt",
+    "static/media/sms.688fc599.svg": "/whatsapp/static/media/sms.688fc599.svg",
+    "static/media/unsend.c0675367.svg": "/whatsapp/static/media/unsend.c0675367.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bffa0d1.js",
+    "static/js/2.b505c3a2.chunk.js",
+    "static/css/main.7ecfaeb0.chunk.css",
+    "static/js/main.8a4be935.chunk.js"
+  ]
+}
